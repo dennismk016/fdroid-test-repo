@@ -1,1 +1,1 @@
-{"repo": {"timestamp": 1750847978000}, "packages": {"com.example.mocklocationapp": {"metadata": {"categories": ["Utility"], "authorName": "By ARTGroups", "name": {"en-US": "Mock Location App"}, "summary": {"en-US": "App to simulate a device's GPS location for various purposes"}}}}}
+{"repo": {"timestamp": 1750848154000}, "packages": {"com.example.mocklocationapp": {"metadata": {"categories": ["Utility"], "authorName": "ARTGroups", "name": {"en-US": "Mock Location App"}, "summary": {"en-US": "App to simulate a device's GPS location for various purposes"}}}}}
